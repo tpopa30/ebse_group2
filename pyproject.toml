@@ -1,0 +1,10 @@
+[project]
+name = "EBSE_G2_A1_Replication_Package"
+version = "0.1.0"
+description = "Replication package for the Evidence Based Software Engineering Assignment 1 2025. Energy
+efficiency of containerised."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "seaborn>=0.13.2",
+]
