@@ -339,13 +339,12 @@ print("Saved: rq2/chart_containerisation_platforms.png")
 # Rq1. Hardware Measurement Methods
 hardware_measure_data = pd.DataFrame({
     "Measurement Method": [
-        "External Power Meter",
         "Intel RAPL",
-        "PMCs",
-        "Inter RAPL",
-        "Hardware Performance Counter"
+        "External Power Meter",
+        "PMC",
+        "HWPC"
     ],
-    "Count": [6, 11, 5, 2, 1]
+    "Count": [13, 6, 5, 1]
 })
 
 plt.figure(figsize=(10, 7))
@@ -381,13 +380,13 @@ plt.close()
 print("Saved: rq1/chart_hw_measurement_methods.png")
 
 software_measure_data = {
-    "Kepler": 8,
+    "Kepler": 7,
     "Scaphandre": 3,
-    "KubeWatt": 2,
-    "SmartWatts": 1,
-    "Containergy": 1,
     "Prometheus": 3,
     "Berkley Packet Filter": 3,
+    "KubeWatt": 1,
+    "SmartWatts": 1,
+    "Containergy": 1,
     "WattsApp": 1
 }
 
