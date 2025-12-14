@@ -1,0 +1,14 @@
+(
+  (
+    ("Metrics" AND ("Measur*" OR "Quantify" OR "Optimi*"))
+    AND ("Power" OR "Power Usage" OR "Power Efficiency" 
+         OR "Power Consumption" OR "Energy" OR "Energy Efficiency" 
+         OR "Energy Consumption")
+    AND (("Cloud" OR "Cloud Computing" OR "Cloud Applications" 
+          OR "Scalable Computing")
+         AND ("container*" OR "docker" OR "kubernetes"))
+  )
+  AND NOT ("exploit" OR "side channel" OR "hack" OR "attack")
+  AND NOT ("FPGA" OR "IOT" OR "Internet of Things" OR "diabetes)
+  AND NOT ("Fairness")
+)

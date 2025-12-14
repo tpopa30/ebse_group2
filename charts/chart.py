@@ -1,3 +1,6 @@
+# This script was written with assistance from GPT 5 Chat. The first chart was made by hand and the following were 
+# generated based on that to fit new data.
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt

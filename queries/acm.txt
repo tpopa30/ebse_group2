@@ -1,0 +1,9 @@
+(
+    "software" AND 
+    ("cloud computing" OR "data center" OR "datacenter" OR "cloud environment") AND
+    ("container*" OR "docker" OR "kubernetes") AND 
+    (“power efficien*” OR“energy efficien*” OR "energy-aware" OR "energy saving" OR "energy consumption") AND 
+    ("metric*" OR "measure*" OR "optimis*" OR "optimiz*" OR "evaluat*") AND 
+    NOT ("exploit" OR "side channel" OR "hack" OR "attack") AND 
+    NOT ("IOT" OR "Internet of Things" OR "FPGA*" OR "robot*")
+)
