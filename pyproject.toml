@@ -5,5 +5,6 @@ description = "Replication package for the Evidence Based Software Engineering A
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "bibtexparser>=1.4.3",
     "seaborn>=0.13.2",
 ]
