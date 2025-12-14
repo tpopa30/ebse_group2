@@ -429,3 +429,40 @@ plt.tight_layout(pad=3.0)
 plt.savefig("rq1/chart_software_measurement_methods.png", dpi=300, bbox_inches="tight")
 plt.close()
 print("Saved: rq1/chart_software_measurement_methods.png")
+
+# Rq1. Research Approaches
+approach_data = pd.DataFrame({
+    "Approach Type": ["Machine Learning", "Analytical", "Simulation"],
+    "Count": [5, 5, 4]
+})
+
+plt.figure(figsize=(10, 7))
+ax_approach = sns.barplot(
+    data=approach_data,
+    x="Approach Type",
+    y="Count",
+    palette="rocket",
+    width=0.6
+)
+
+for p in ax_approach.patches:
+    height = p.get_height()
+    ax_approach.annotate(
+        f'{int(height)}',
+        (p.get_x() + p.get_width() / 2.0, height),
+        ha='center',
+        va='bottom',
+        fontsize=FONT_SIZE,
+        xytext=(0, 3),
+        textcoords='offset points'
+    )
+
+plt.title("Approaches for Measuring Container Energy Usage", fontsize=TITLE_FONT_SIZE, pad=25)
+plt.xlabel("Approach Type", fontsize=LABEL_FONT_SIZE, labelpad=20)
+plt.ylabel("Number of Papers", fontsize=LABEL_FONT_SIZE, labelpad=15)
+plt.xticks(fontsize=FONT_SIZE, rotation=0)
+plt.yticks(fontsize=FONT_SIZE)
+plt.tight_layout(pad=3.0)
+plt.savefig("rq1/chart_research_approaches.png", dpi=300, bbox_inches="tight")
+plt.close()
+print("Saved: rq1/chart_research_approaches.png")
