@@ -1,0 +1,152 @@
+title,authors,year,source,source_dataset
+enhancing energy efficiency in kubernetes cluster through resource and energy aware scheduling,S. Moorthi; E. E. Mon; C. Aswakul,2025,"2025 22nd International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON)",IEEE
+container-level energy observability in kubernetes clusters,B. Pijnacker; B. Setz; V. Andrikopoulos,2025,2025 11th International Conference on ICT for Sustainability (ICT4S),IEEE
+poet: a platform for o-ran energy efficiency testing,N. K. Shankaranarayanan; Z. Li; I. Seskar; P. Maddala; S. Puthenpura; A. Stancu; A. Agarwal,2024,2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall),IEEE
+kepler: a framework to calculate the energy consumption of containerized applications,M. Amaral; H. Chen; T. Chiba; R. Nakazawa; S. Choochotkaew; E. K. Lee; T. Eilam,2023,2023 IEEE 16th International Conference on Cloud Computing (CLOUD),IEEE
+gradient beetle honey badger optimization based container migration and optimal key selection using firefly honey badger algorithm in cloud computing,R. S; S. Soma,2023,2023 Global Conference on Information Technologies and Communications (GCITC),IEEE
+using neural networks on cloud container’s performance comparison by r on docker (rocker),A. B. Gumelar; D. A. Lusia; A. Widodo; R. Felani,2018,2018 International Symposium on Advanced Intelligent Informatics (SAIN),IEEE
+process-based efficient power level exporter,M. Amaral; H. Chen; T. Chiba; R. Nakazawa; S. Choochotkaew; E. K. Lee; T. Eilam,2024,2024 IEEE 17th International Conference on Cloud Computing (CLOUD),IEEE
+deep-mon: dynamic and energy efficient power monitoring for container-based infrastructures,R. Brondolin; T. Sardelli; M. D. Santambrogio,2018,2018 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW),IEEE
+energy efficiency for autonomic scalable systems: research objectives and preliminary results,R. Brondolin; M. Arnaboldi; T. Sardelli; S. Notargiacomo; M. D. Santambrogio,2018,2018 IEEE 4th International Forum on Research and Technology for Society and Industry (RTSI),IEEE
+advancing cloud sustainability: a versatile framework for container power model training,S. Choochotkaew; C. Wang; H. Chen; T. Chiba; M. Amaral; E. K. Lee; T. Eilam,2023,"2023 31st International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS)",IEEE
+cost-based application placement optimization for integrated energy system using docker,N. Xiong; P. Yang; H. Li; Q. Wang,2021,2021 IEEE 4th International Electrical and Energy Conference (CIEEC),IEEE
+a comprehensive experimentation framework for energy-efficient design of cloud-native applications,S. Werner; M. C. Borges; K. Wolf; S. Tai,2025,2025 IEEE 22nd International Conference on Software Architecture (ICSA),IEEE
+application-independent dvfs method based on os metrics monitoring for cloud servers,H. Noguchi; M. Kaneko,2024,"2024 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)",IEEE
+energy-aware scheduling in cloud-native environment,S. K. Tesfatsion; O. Gorbatov; X. Cai,2025,"2025 International Conference on Software, Telecommunications and Computer Networks (SoftCOM)",IEEE
+a new infrastructure elasticity control algorithm for containerized cloud,W. A. Hanafy; A. E. Mohamed; S. A. Salem,2019,IEEE Access,IEEE
+scalable and adaptive multi-access edge computing: a dynamic classification and containerization framework,M. AlMuharif; S. Sankaranarayanan; P. Lorenz,2025,"2025 International Conference on Software, Telecommunications and Computer Networks (SoftCOM)",IEEE
+hyppo: hybrid performance-aware power-capping orchestrator,M. Arnaboldi; R. Brondolin; M. D. Santambrogio,2018,2018 IEEE International Conference on Autonomic Computing (ICAC),IEEE
+"decentralized home computing network: leveraging iaas, paas, and saas for passive income generation with kubernetes clusters",R. R. R; T. S,2024,"2024 Third International Conference on Electrical, Electronics, Information and Communication Technologies (ICEEICT)",IEEE
+presto: a latency-aware power-capping orchestrator for cloud-native microservices,R. Brondolin; M. D. Santambrogio,2020,2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS),IEEE
+containerized deployment of secure llm workflows in multi-cloud infrastructures,J. P. Mohan; P. Ranganathan,2025,2025 IEEE Cloud Summit,IEEE
+anomaly detection and root cause analysis of microservices energy consumption,M. S. Floroiu; S. Russo; L. Giamattei; A. Guerriero; I. Malavolta; R. Pietrantuono,2024,2024 IEEE International Conference on Web Services (ICWS),IEEE
+an analysis of cloud cost optimization using machine learning,D. Bansal; P. Singh; A. Singh,2025,2025 International Conference on Data Science and Business Systems (ICDSBS),IEEE
+implementation of gpu scheduling method for kubernetes,H. Li; M. Xu; Z. Li; Y. Wang,2023,2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2),IEEE
+bridging the benchmarking gap: performance evaluation of popular kubernates-based orchestration frameworks,P. Sathish; S. R. Avula; D. B U; A. G. Bhat,2025,2025 International Conference on Computing Technologies & Data Communication (ICCTDC),IEEE
+autoscaling pods on an on-premise kubernetes infrastructure qos-aware,L. M. Ruíz; P. P. Pueyo; J. Mateo-Fornés; J. V. Mayoral; F. S. Tehàs,2022,IEEE Access,IEEE
+on energy-aware and verifiable benchmarking of big data processing targeting ai pipelines,G. Theodorou; S. Karagiorgou; C. Kotronis,2024,2024 IEEE International Conference on Big Data (BigData),IEEE
+workload prediction over cloud server using time series data,M. P. Yadav; N. Pal; D. K. Yadav,2021,"2021 11th International Conference on Cloud Computing, Data Science & Engineering (Confluence)",IEEE
+predictive scaling of elastic pod instances for modern applications on public cloud through long short-term memory,G. Bharanidharan; S. Jayalakshmi; P. Mayilvahanan,2022,2022 International Conference on Applied Artificial Intelligence and Computing (ICAAIC),IEEE
+pm$^{2}$2ve: power metering model for virtualization environments in cloud data centers,Z. Shen; X. Zhang; Z. Liu; Y. Li,2023,IEEE Transactions on Cloud Computing,IEEE
+efficient microservice deployment in the edge-cloud networks with policy-gradient reinforcement learning,K. Afachao; A. M. Abu-Mahfouz; G. P. Hanke,2024,IEEE Access,IEEE
+container image similarity-aware resource provisioning for serverless edge computing,A. Zhou; S. Li; X. Ma; Y. Zhang; S. Wang,2023,2023 IEEE International Conference on Web Services (ICWS),IEEE
+scheduling latency-sensitive tasks in the cloud continuum with hierarchical reinforcement learning,D. Monaco; A. Sacco; C. Casetti; G. Marchetto,2025,NOMS 2025-2025 IEEE Network Operations and Management Symposium,IEEE
+kube-knots: resource harvesting through dynamic container orchestration in gpu-based datacenters,P. Thinakaran; J. R. Gunasekaran; B. Sharma; M. T. Kandemir; C. R. Das,2019,2019 IEEE International Conference on Cluster Computing (CLUSTER),IEEE
+towards prediction of power consumption of virtual machines for varying loads,H. A. Salam; F. Davoli; A. Carrega; A. Timm-Giel,2018,2018 28th International Telecommunication Networks and Applications Conference (ITNAC),IEEE
+mo-ddpg: an affinity and anti-affinity-based container service migration strategy in mec,Q. Deng; S. Zhang; X. Yang; Q. Zuo; Z. Wang; S. Long,2024,2024 IEEE International Conference on High Performance Computing and Communications (HPCC),IEEE
+"a monitoring, observability and analytics framework to improve the sustainability of b5g technologies",M. Akbari; R. Bolla; R. Bruschi; F. Davoli; C. Lombardo; B. Siccardi,2024,2024 IEEE International Conference on Communications Workshops (ICC Workshops),IEEE
+multi-application hierarchical autoscaling for kubernetes edge clusters,I. Dimolitsas; D. Spatharakis; D. Dechouniotis; A. Zafeiropoulos; S. Papavassiliou,2023,2023 IEEE International Conference on Smart Computing (SMARTCOMP),IEEE
+temporal knowledge graph construction for microservice-based digital power applications,J. Zhang; Y. Wang; Z. Liang; M. Zheng; L. Xie; J. Cui,2025,"2025 8th International Conference on Energy, Electrical and Power Engineering (CEEPE)",IEEE
+a comprehensive modeling and scheduling approach for allocating distributed multi-robot software to the edge/cloud,Y. Zhang; F. Mirus; F. Pasch; K. -U. Scholl; C. Wurll; B. Hein,2024,2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),IEEE
+directives for function offloading in 5g networks based on a performance characteristics analysis,F. Dettinger; M. Weiß; M. Weyrich; D. Baumann; M. Sommer,2025,2025 IEEE International Automated Vehicle Validation Conference (IAVVC),IEEE
+analysis of building model forecasts using autonomous hvac optimization system for residential neighborhood,V. Lebakula; H. Zandi; C. Winstead; E. Tsybina; T. Kuruganti; J. Hill,2023,2023 IEEE Energy Conversion Congress and Exposition (ECCE),IEEE
+towards a framework for monitoring and analyzing high performance computing environments using kubernetes and prometheus,N. Sukhija; E. Bautista,2019,"2019 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI)",IEEE
+elk stack – improving the computing clusters at dfcti through log analysis,R. Poenaru; D. Ciobanu-Zabet,2020,2020 19th RoEduNet Conference: Networking in Education and Research (RoEduNet),IEEE
+a step towards hadoop dynamic scaling,Q. Fu; N. Timkovich; P. Riteau; K. Keahey,2018,2018 IEEE 20th International Conference on High Performance Computing and Communications; IEEE 16th International Conference on Smart City; IEEE 4th International Conference on Data Science and Systems (HPCC/SmartCity/DSS),IEEE
+rusty: runtime interference-aware predictive monitoring for modern multi-tenant systems,D. Masouros; S. Xydis; D. Soudris,2021,IEEE Transactions on Parallel and Distributed Systems,IEEE
+multilayered security approach for ci/cd pipeline with web application development,P. Asha; A. Kumar; A. H. Pandey; L. P. Suresh; N. S. Usha; M. Maheswari,2025,"2025 8th International Conference on Circuit, Power & Computing Technologies (ICCPCT)",IEEE
+evaluating the accuracy of software energy consumption models for java applications at process and transaction levels,"Brunnert, A.",2025,Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering,Scopus
+supersonic: cloud-native infrastructure for ml inferencing,"Kondratyev, D.; Riedel, B.; Chou, Y.-T.; Cochran-Branson, M.; Paladino, N.; Schultz, D.; Liu, M.; Duarte, J.; Harris, P.; Hsu, S.-C.",2025,,Scopus
+a sustainable approach to processing big healthcare data (bhd) workloads,"Haddad, T.; Kumarapeli, P.",2025,Studies in Health Technology and Informatics,Scopus
+optimizing machine learning and deep learning software stacks for ai-specific cloud infrastructures,"Sarabu, V.R.",2025,,Scopus
+enhanced beluga whale optimization-based container migration between virtual machines,"Rukmini, S.; Soma, S.",2025,Multimedia Tools and Applications,Scopus
+scalable container-based time synchronization for smart grid data center networks,"Okafor, K.C.; Okafor, W.O.; Mary Longe, O.M.; Ignatius Ayogu, I.I.; Anoh, K.; Adebisi, B.",2025,Technologies,Scopus
+"11th ifip wg 6.12 european conference on service-oriented and cloud computing, esocc 2025",,2025,Lecture Notes in Computer Science,Scopus
+energy-aware resource allocation and container migration in distributed data centers under variable energy pricing: a genetic programming hyper-heuristic approach,"Falloon, M.; Ma, H.; Chen, G.",2025,"IEEE International Conference on Cloud Computing, CLOUD",Scopus
+software container-based energy estimation models for arm architecture,"Belhadj, M.A.; Trabelsi, K.; Cudennec, L.; Charles, H.-P.",2025,,Scopus
+ree-tm: reliable and energy-efficient traffic management model for diverse cloud workloads,"Singh, A.K.; Saxena, D.; Lindenstruth, V.",2025,IEEE Transactions on Cloud Computing,Scopus
+softwarized and containerized microservices-based network management analysis with msn,"Arzo, S.T.; Scotece, D.; Bassoli, R.; Devetsikiotis, M.; Foschini, L.; Fitzek, F.H.P.",2024,Computer Networks,Scopus
+a deep reinforcement learning framework for optimized container scheduling and load balancing,"Bhukya, S.; Goud, P.S.; Yuvraj, K.; Harin, G.K.",2024,International Research Journal of Multidisciplinary Technovation,Scopus
+optimization of containerized application deployment in virtualized environments: a novel mathematical framework for resource-efficient and energy-aware server infrastructure,"Rabieyan, R.; Yahyapour, R.; Jahnke, P.",2024,Journal of Supercomputing,Scopus
+energy-aware dynamic resource allocation and container migration in cloud servers: a co-evolution gphh approach,"Falloon, M.; Ma, H.; Chen, A.",2024,,Scopus
+"evolving high-performance computing data centers with kubernetes, performance analysis, and dynamic workload placement based on machine learning scheduling","Dakić, V.; Kovač, M.; Slovinac, J.",2024,Electronics (Switzerland),Scopus
+reducing carbon emissions of distributed systems: a multi-objective approach,"Almeida, G.; Torres do Ó, M.; Francesquini, E.; Cordeiro, D.",2024,,Scopus
+efficient virtual resource management in nested virtualization environments,"Bouchair, A.",2024,,Scopus
+energy consumption in microservices architectures: a systematic literature review,"Araújo, G.; Barbosa, V.; Lima, L.N.; Sabino, A.; Brito, C.; Fe, I.; Rego, P.; Choi, E.; Min, D.; Nguyen, T.A.; Silva, F.A.",2024,IEEE Access,Scopus
+carbonoracle: automating energy mix & renewable energy source forecast modeling for carbon-aware micro data centers,"Symeonides, M.; Tsiopani, N.; Maouris, G.; Trihinas, D.; Pallis, G.; Dikaiakos, M.D.",2024,,Scopus
+a machine learning approach for an hpc use case: the jobs queuing time prediction,"Vercellino, C.; Scionti, A.; Varavallo, G.; Viviani, P.; Vitali, G.; Terzo, O.",2023,Future Generation Computer Systems,Scopus
+energy efficiency in cloud computing data centers: a survey on software technologies,"Katal, A.; Dahiya, S.; Choudhury, T.",2023,Cluster Computing,Scopus
+a sensor predictive model for power consumption using machine learning,"Moocheet, N.; Jaumard, B.; Thibault, P.; Eleftheriadis, L.",2023,,Scopus
+model-driven dependability and power consumption quantification of kubernetes-based cloud-fog continuum,"Fe, I.; Nguyen, T.A.; Soares, A.B.; Son, S.; Choi, E.; Min, D.; Lee, J.-W.; Silva, F.A.",2023,IEEE Access,Scopus
+containerized deployment of microservices in cloud computing,"Shivam; Kumar, D.",2023,,Scopus
+intelligent and compliant dynamic software license consolidation in cloud environment,"Helali, L.; Omri, M.N.",2022,Computing,Scopus
+software license consolidation and resource optimization in container-based virtualized data centers,"Helali, L.; Omri, M.N.",2022,Journal of Grid Computing,Scopus
+"imtidad: a reference architecture and a case study on developing distributed ai services for skin disease diagnosis over cloud, fog and edge","Janbi, N.; Mehmood, R.; Katib, I.; Albeshri, A.; Corchado Rodríguez, J.M.; Yigitcanlar, T.",2022,Sensors,Scopus
+on the power consumption of serverless functions: an evaluation of openfaas,"Alhindi, A.; Djemame, K.; Banaie, F.B.",2022,,Scopus
+cloud orchestration for optimized computing efficiency: the case of wind resource modelling,"Touloupou, M.; Kapassa, E.; Rizou, S.",2022,,Scopus
+enabling rank-based distribution of microservices among containers for green cloud computing environment,"Saboor, A.; Mahmood, A.K.; Omar, A.H.; Hassan, M.F.; Shah, S.N.M.; Ahmadian, A.",2022,Peer-to-Peer Networking and Applications,Scopus
+performance and scaling behavior of bioinformatic applications in virtualization environments to create awareness for the efficient use of compute resources,"Hanussek, M.; Bartusch, F.; Ger, J.K.",2021,PLOS Computational Biology,Scopus
+feature and performance based comparative study on serverless frameworks,"Nasrin, S.; Sahryer, T.I.M.F.; Islam, A.B.M.A.; Noor, J.",2021,,Scopus
+a framework for comparative evaluation of high-performance virtualized networking mechanisms,"Ara, G.; Lai, L.; Cucinotta, T.; Abeni, L.; Vitucci, C.",2021,Communications in Computer and Information Science,Scopus
+performance evaluation of parallel haemodynamic computations on heterogeneous clouds,"Bystrov, O.; Kačeniauskas, A.; Pacevič, R.; Starikovičius, V.; Maknickas, A.; Stupak, E.; Igumenov, A.",2021,Computing and Informatics,Scopus
+energy-efficient workflow scheduling using container-based virtualization in software-defined data centers,"Ranjan, R.; Thakur, I.S.; Aujla, G.S.; Kumar, N.; Zomaya, A.Y.",2020,IEEE Transactions on Industrial Informatics,Scopus
+cloud-edge monitoring system framework for plug-in hybrid electric vehicles,"Xu, C.; Zheng, Y.",2020,,Scopus
+a novel energy-aware resource management technique using joint vm and container consolidation approach for green computing in cloud data centers,"Daraghmeh, N.; Arianyan, E.; Buyya, R.",2020,Simulation Modelling Practice and Theory,Scopus
+green containerized service consolidation in cloud,"Nath, S.B.; Addya, S.K.; Chakraborty, S.; Ghosh, S.K.",2020,Conference Record - International Conference on Communications,Scopus
+smartwatts: self-calibrating software-defined power meter for containers,"Fieni, G.; Rouvoy, R.; Seinturier, L.",2020,,Scopus
+containergy-a container-based energy and performance profiling tool for next generation workloads,"Silva-De-Souza, W.; Iranfar, A.; Bráulio, A.; Zapater, M.; Xavier-de-Souza, S.; Olcoz, K.; Atienza, D.",2020,Energies,Scopus
+a group genetic algorithm for resource allocation in container-based clouds,"Tan, B.; Ma, H.; Mei, Y.",2020,Lecture Notes in Computer Science,Scopus
+"sledgescale: load-aware dispatch and deadline-driven scheduling for scalable, dense serverless computing in edge data centers","Lyu, Xiaosu and Abbasov, Emil and McBride, Sean and Parmer, Gabriel and Wood, Timothy",2025,,ACM
+the sap cloud infrastructure dataset: a reality check of scheduling and placement of vms in cloud computing,"Uhlig, Arno and Braun, Iris and W\""{a}hlisch, Matthias",2025,,ACM
+"ecoran: a novel programmable framework for dynamic and energy-efficient resource optimization in multi-tenant, neutral host o-ran systems","Bevilacqua, Mattia and Mezzavilla, Marco and Moro, Eugenio and Mazzucco, Christian and Magarini, Maurizio",2025,,ACM
+the case for data centre hyperloops,"L\'{o}pez-Parad\'{\i}s, Guillem and Hair, Isaac M. and Kannan, Sid and Rabbat, Roman and Murray, Parker and Lopes, Alex and Zahedi, Rory and Zuo, Winston and Balkind, Jonathan",2025,,ACM
+nonlinear model predictive control based on nonlinear autoregressive exogenous model for energy efficient heat removal module in data centers,"tran, si bui quang and Selvara, Senthil Kumar and Nguyen, Van Bo and Keat, Cheong Chun and Lee, Seri and Wise, Daniel and Kang, Chang Wei",2025,,ACM
+fair-co2: fair attribution for cloud carbon emissions,"Han, Leo and Kakadia, Jash and Lee, Benjamin C. and Gupta, Udit",2025,,ACM
+in-storage acceleration of retrieval augmented generation as a service,"Mahapatra, Rohan and Santhanam, Harsha and Priebe, Christopher and Xu, Hanyang and Esmaeilzadeh, Hadi",2025,,ACM
+the case for energy clarity,"Chung, Fan and Kuo, Henry and Candea, George",2025,,ACM
+univariate vs multivariate prediction for containerised applications auto-scaling: a comparative study,"M. Santos, Wellison R. and Sampaio, Adalberto R. and Rosa, Nelson S. and C. Cavalcanti, George D.",2025,,ACM
+understanding the energy consumption of cloud-native software systems,"Andringa, Lars and Setz, Brian and Andrikopoulos, Vasilios",2025,,ACM
+generating executable microservice applications for performance benchmarking,"Lubas, Yannik and Straesser, Martin and Bauer, Andr\'{e} and Kounev, Samuel",2025,,ACM
+autobench: a holistic platform for automated and reproducible benchmarking in hpc testbeds,"Parab, Arjun and Raoofy, Amir and Sp\""{o}rl, Leon and Dimitrov, Stefan and Tovey, Matthew and Weidendorfer, Josef",2025,,ACM
+"move your code, not your data","Giardino, Michael and Gupta, Siddharth and Humbel, Lukas and Mueller, Rene and Nag, Anirban",2025,,ACM
+bridging the sustainability gap in serverless through observability and carbon-aware pricing,"Lin, Changyuan and Shahrad, Mohammad",2025,SIGENERGY Energy Inform. Rev.,ACM
+privacy-preserving multimedia mobile cloud computing using cost-effective protective perturbation,"Tang, Zhongze and Zhu, Zichen and Ye, Mengmei and Liu, Yao and Wei, Sheng",2025,,ACM
+ceems: a resource manager agnostic energy and emissions monitoring stack,"Paipuri, Mahendra",2025,,ACM
+"sustainable ai: experiences, challenges &amp; recommendations","Broadway, Eleanor and Lee, Joseph K. L. and Weiland, Mich\`{e}le",2025,,ACM
+melting point: mobile evaluation of language transformers,"Laskaridis, Stefanos and Katevas, Kleomenis and Minto, Lorenzo and Haddadi, Hamed",2024,,ACM
+fast and efficient scaling for microservices with surgeguard,"Ghosh, Anyesha and Yadwadkar, Neeraja J. and Erez, Mattan",2024,,ACM
+mlolet - machine learning optimized load and endurance testing: an industrial experience report,"Vitui, Arthur and Chen, Tse-Hsun",2024,,ACM
+live migration of multi-container kubernetes pods in multi-cluster serverless edge systems,"Poggiani, Leonardo and Puliafito, Carlo and Virdis, Antonio and Mingozzi, Enzo",2024,,ACM
+topaz: declarative and verifiable authoritative dns at cdn-scale,"Larisch, James and Thijm, Timothy Alberdingk and Ahmad, Suleman and Wu, Peter and Arnfeld, Tom and Fayed, Marwan",2024,,ACM
+challenger 2.0: a step towards automated deployments and resilient solutions for the debs grand challenge,"Tahir, Jawad and Baili, Chiheb and Svaral, Matej and Friedlein, Johannes and Doblander, Christoph and Jacobsen, Hans-Arno",2024,,ACM
+s.c.a.l.e: a co2-aware scheduler for openshift at ing,"Den Toonder, Jurriaan and Braakman, Paul and Durieux, Thomas",2024,,ACM
+an inconvenient truth in software engineering? the environmental impact of testing open source java projects,"Zaidman, Andy",2024,,ACM
+energy-minimizing workload splitting and frequency selection for guaranteed performance over heterogeneous cores,"Priya, Aditya and Choudhury, Rajiv and Patni, Sujay and Sharma, Himkant and Mohanty, Moonmoon and Narayanam, Krishnasuri and Devi, Umamaheswari and Moogi, Pratibha and Patil, Preetam and Parag, Parimal",2024,,ACM
+trackiops: real-time nfs performance metrics extractor,"Dubuc, Th\'{e}ophile and Vicat-Blanc, Pascale and Olivier, Pierre and Callau-Zori, Mar and Hubert, Christophe and Tchana, Alain",2024,,ACM
+green software metrics,"Brunnert, Andreas",2024,,ACM
+a quantitative analysis and guidelines of data streaming accelerator in modern intel xeon scalable processors,"Kuper, Reese and Jeong, Ipoom and Yuan, Yifan and Wang, Ren and Ranganathan, Narayan and Rao, Nikhil and Hu, Jiayu and Kumar, Sanjay and Lantz, Philip and Kim, Nam Sung",2024,,ACM
+atlas: hybrid cloud migration advisor for interactive microservices,"Chow, Ka-Ho and Deshpande, Umesh and Deenadayalan, Veera and Seshadri, Sangeetha and Liu, Ling",2024,,ACM
+cloud workload categorization using various data preprocessing and clustering techniques,"Daraghmeh, Mustafa and Agarwal, Anjali and Jararweh, Yaser",2024,,ACM
+crossgai: a cross-device generative ai framework for collaborative fashion design,"Deng, Hanhui and Jiang, Jianan and Yu, Zhiwang and Ouyang, Jinhui and Wu, Di",2024,Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.,ACM
+implementation of fault-tolerance mechanism in quorum-based blockchain provisioning in cloud infrastructure using replication and monitoring protocols,"Putri, Rosyida Salicha Rusdarto and Bhawiyuga, Adhitya and Akbar, Sabriansyah Rizqika and Shaffan, Nur Hazbiy and Amron, Kasyful and Basuki, Achmad",2023,,ACM
+greennfv: energy-efficient network function virtualization with service level agreement constraints,"Nine, Md S. Q. Zulkar and Kosar, Tevfik and Bulut, Muhammed Fatih and Hwang, Jinho",2023,,ACM
+flexconnect: mobile computational offloading,"Droob, Alexander and Morratz, Daniel and Jakobsen, Frederik Langkilde and Carstensen, Jacob and Mathiesen, Magnus and Bohnstedt, Rune and Albano, Michele and Moreschini, Sergio and Taibi, Davide",2023,,ACM
+effective working environment and factor for a software engineer in companies that are not ict based,"Oyewale, Christianah Titilope and Abolade, Akintomiwa Mayowa and Oyewumi, Olukunle",2023,,ACM
+towards a methodology and framework for ai sustainability metrics,"Eilam, Tamar and Bello-Maldonado, Pedro and Bhattacharjee, Bishwaranjan and Costa, Carlos and Lee, Eun Kyung and Tantawi, Asser",2023,,ACM
+performance experiences from running an e-health inference process as faas across diverse clusters,"Kousiouris, George and Pnevmatikakis, Aristodemos",2023,,ACM
+performance interference of virtual machines: a survey,"Lin, Weiwei and Xiong, Chennian and Wu, Wentai and Shi, Fang and Li, Keqin and Xu, Minxian",2023,ACM Comput. Surv.,ACM
+systematic literature review on parallel trajectory-based metaheuristics,"Almeida, Andr\'{e} Lu\'{\i}s Barroso and Lima, Joubert de Castro and Carvalho, Marco Antonio M.",2022,ACM Comput. Surv.,ACM
+custom scheduling in kubernetes: a survey on common problems and solution approaches,"Rejiba, Zeineb and Chamanara, Javad",2022,ACM Comput. Surv.,ACM
+light-bcube:a scalable and high performance network structure for modular data center,"Zeng, Zhicheng and Shen, Hong",2022,,ACM
+neuroscaler: neural video enhancement at scale,"Yeo, Hyunho and Lim, Hwijoon and Kim, Jaehong and Jung, Youngmok and Ye, Juncheol and Han, Dongsu",2022,,ACM
+information batteries: storing opportunity power with speculative execution,"Switzer, Jennifer and Raghavan, Barath",2022,SIGENERGY Energy Inform. Rev.,ACM
+towards transparent and trustworthy cloud carbon accounting,"Eilam, Tamar",2021,,ACM
+enabling sustainable clouds: the case for virtualizing the energy system,"Bashir, Noman and Guo, Tian and Hajiesmaili, Mohammad and Irwin, David and Shenoy, Prashant and Sitaraman, Ramesh and Souza, Abel and Wierman, Adam",2021,,ACM
+bridging storage semantics using data labels and asynchronous i/o,"Kougkas, Anthony and Devarajan, Hariharan and Sun, Xian-He",2020,ACM Trans. Storage,ACM
+the art of cpu-pinning: evaluating and improving the performance of virtualization and containerization platforms,"Ghatrehsamani, Davood and Denninnart, Chavit and Bacik, Josef and Amini Salehi, Mohsen",2020,,ACM
+healthsense: software-defined mobile-based clinical trials,"Curtis, Aidan and Pai, Amruta and Cao, Jian and Moukaddam, Nidal and Sabharwal, Ashutosh",2019,,ACM
+a new framework for evaluating straggler detection mechanisms in mapreduce,"Phan, Tien-Dat and Pallez, Guillaume and Ibrahim, Shadi and Raghavan, Padma",2019,ACM Trans. Model. Perform. Eval. Comput. Syst.,ACM
+vcpu as a container: towards accurate cpu allocation for vms,"Liu, Li and Wang, Haoliang and Wang, An and Xiao, Mengbai and Cheng, Yue and Chen, Songqing",2019,,ACM
+stochastic resource allocation,"Funaro, Liran and Ben-Yehuda, Orna Agmon and Schuster, Assaf",2019,,ACM
+predicting server power consumption from standard rating results,"von Kistowski, J\'{o}akim and Grohmann, Johannes and Schmitt, Norbert and Kounev, Samuel",2019,,ACM
+per-application power delivery,"Guliani, Akhil and Swift, Michael M.",2019,,ACM
+cloud brokerage: a systematic survey,"Elhabbash, Abdessalam and Samreen, Faiza and Hadley, James and Elkhatib, Yehia",2019,ACM Comput. Surv.,ACM
+a particle swarm optimization-based container scheduling algorithm of docker platform,"Li, Lianwan and Chen, Jianxin and Yan, Wuyang",2018,,ACM
+mage: online and interference-aware scheduling for multi-scale heterogeneous systems,"Romero, Francisco and Delimitrou, Christina",2018,,ACM
+jaguar: low latency mobile augmented reality with flexible tracking,"Zhang, Wenxiao and Han, Bo and Hui, Pan",2018,,ACM
+value-based manufacturing optimisation in serverless clouds for industry 4.0,"Dziurzanski, Piotr and Swan, Jerry and Indrusiak, Leandro Soares",2018,,ACM
+development frameworks for mobile devices: a comparative study about energy consumption,"Corbalan, Leonardo and Fernandez, Juan and Cuiti\~{n}o, Alfonso and Delia, Lisandro and C\'{a}seres, Germ\'{a}n and Thomas, Pablo and Pesado, Patricia",2018,,ACM
+container cloud resource allocation based on combinatorial double auction,"Chen, Chaoquan and Zhang, Zhengzheng and Xie, Xiaolan",2018,,ACM
+securing smart metering applications in untrusted clouds with the securecloud platform,"Riella, Rodrigo J. and Iantorno, Luciana M. and Junior, Laerte C. R. and Seidel, Dilmari and Fonseca, Keiko V. O. and Gomes-Jr, Luiz and Rosa, Marcelo O.",2018,,ACM
+a workload-dependent performance analysis of an in-memory database in a multi-tenant configuration,"Paluch, Dominik and Kienegger, Harald and Krcmar, Helmut",2018,,ACM
+multi-objective optimization of deployment topologies for distributed applications,"Willnecker, Felix and Krcmar, Helmut",2018,ACM Trans. Internet Technol.,ACM

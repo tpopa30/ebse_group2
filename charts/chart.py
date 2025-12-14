@@ -237,8 +237,8 @@ print("Saved: rq1/chart_overview_combined_methods.png")
 
 # Rq2. Hardware Type
 hw_data = pd.DataFrame({
-    "Hardware Type": ["Enterprise", "Consumer", "Unknown / Not Specified"],
-    "Count": [12, 6, 5]
+    "Hardware Type": ["Enterprise", "Consumer", "Both", "Unknown / Not Specified"],
+    "Count": [12, 5, 3, 3]
 })
 
 plt.figure(figsize=(10, 7))
@@ -272,7 +272,7 @@ print("Saved: rq2/chart_hw_type.png")
 # RQ2. CPU Vendor
 cpu_data = pd.DataFrame({
     "CPU Vendor": ["Intel", "AMD", "ARM", "Unknown / Not Specified"],
-    "Count": [12, 1, 1, 9]
+    "Count": [17, 2, 3, 3]
 })
 
 plt.figure(figsize=(10, 7))
